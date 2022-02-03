@@ -2,8 +2,6 @@ document.write("She then told me, \"Stop procrastinating and do your homework, o
 
 alert("Hello, World!"); //this presents a pop up when opening web page
 
-document.getElementById('yourElemId').style.color = 'red';
-
 document.write("<br><br>\"Be who you are and say what you feel,"                //this concatenates a string value       
 + " because those who mind don't matter and those who matter don\'t mind.\""
 + "-Dr. Seuss");
@@ -20,3 +18,5 @@ var myBikeName = "Yamaha", myCarName="BMW", name="John David"; //this assigns mu
 document.write(myBikeName)
 
 document.write(3+3);
+
+document.getElementById("usernameError").style.color = "red";
