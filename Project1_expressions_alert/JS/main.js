@@ -19,4 +19,4 @@ document.write(myBikeName)
 
 document.write(3+3);
 
-document.getElementById("usernameError").style.color = "red";
+
