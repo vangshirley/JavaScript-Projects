@@ -58,3 +58,10 @@ document.write(5 > 10 || 10 > 4); //OR operator displays true
 document.write(5 > 10 || 10 > 20);
 
 document.write(5 < 10 || 10 < 20);
+
+document.write(5 > 2 && 10 > 4); // AND displays true
+
+document.write(5 > 10 && 10 > 4); //AND displays false 
+
+document.write(!(3 > 0 || -2 > 0)); //NOT displays false
+
