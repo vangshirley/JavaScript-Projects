@@ -56,7 +56,7 @@ function myFather() {
     "My father is " + myFather.age + "."; 
 }
 
-function count_Function() {
+function count_Function() { 
     document.getElementById("Nested_Function").innerHTML = Count ();
     function Count() {
         var Starting_point = 9;
