@@ -1,7 +1,7 @@
 //global variable
 var X = 10;
 function Add_numbers_1() {
-    document.write(20 + X + "<br>");
+    document.write(20 + X);
 }
 function Add_numbers_2() {
     document.write(X + 100);
