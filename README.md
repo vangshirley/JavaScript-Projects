@@ -1,6 +1,6 @@
 # JavaScript-Projects
 Hello, my name is Shirley and I am UX/UI Designer student at the Tech Academy in Portland, OR.
-These are Javascript projects from various assignments including, but not limited to displaying basic functions, slideshows and effects. 
+These are Javascript projects from various assignments including, but not limited to basic functions, slideshows and effects. 
 Please check out my HTML and CSS Portfolio for more.
 
 Here are a few main projects I've worked on:
